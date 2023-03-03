@@ -1,0 +1,22 @@
+body {
+    background: #000000;  
+    background: -webkit-linear-gradient(to right, #434343, #000000);  
+    background: linear-gradient(to right, #434343, #000000); 
+   /* background-image: url(img.jpg);
+    background-size: cover; */
+}
+.letra_principal{
+    color: white;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #e6dddd url("gradient.gif") bottom left repeat-x;
+    color: #fff;
+ }
+ td, th {
+    background: #fff;
+    color: #000;
+ }
+
+ 
